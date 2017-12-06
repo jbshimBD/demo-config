@@ -1,4 +1,4 @@
 configdemo:
   profile: stg
-  greeting1: welcome
-  greeting2: stg
+  greeting1: Welcome
+  greeting2: stage!
