@@ -1,3 +1,6 @@
+spring:
+  profiles: default
+  
 devguide:
   greeting: "안녕하세요"
 
