@@ -1,0 +1,26 @@
+devguide:
+  greeting: "hello"
+
+---
+
+spring:
+  profiles: stage
+
+devguide:
+  greeting: "Welcome to stage!"
+
+---
+
+spring:
+  profiles: dev
+
+devguide:
+  greeting: "Welcome to dev!"
+
+---
+
+spring:
+  profiles: local
+
+devguide:
+  greeting: "You're in local env."
