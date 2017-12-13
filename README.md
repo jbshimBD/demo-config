@@ -1,2 +1,2 @@
 # demo-config
-test
+test2
