@@ -1,4 +1,3 @@
 subConfigDemo:
-  profile: dev
   subGreeting1: welcome to sub world!
   subGgreeting2: dev sub config ★☆★☆★☆★☆
