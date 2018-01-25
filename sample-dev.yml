@@ -1,7 +1,7 @@
 configdemo:
   profile: dev
   greeting1: welcome!!!
-  greeting2: dev ★☆★☆★☆★☆ 6666
+  greeting2: dev ★☆★☆★☆★☆ 111
 
 #spring:
 #  profiles:
