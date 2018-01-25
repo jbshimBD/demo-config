@@ -3,7 +3,7 @@ configdemo:
   greeting1: welcome!!!
   greeting2: dev ★☆★☆★☆★☆ 5555
 
-spring:
-  profiles:
-    include: >
-      subcategory/subcategoryA
+#spring:
+#  profiles:
+#    include: >
+#      subcategory/subcategoryA
