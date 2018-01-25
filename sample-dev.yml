@@ -1,7 +1,7 @@
 configdemo:
   profile: dev
   greeting1: welcome!!!
-  greeting2: dev ★☆★☆★☆★☆ 555
+  greeting2: dev ★☆★☆★☆★☆ 666
 
 # include  하면 active profile이 변경되는 듯. 사용금지
 #spring:
