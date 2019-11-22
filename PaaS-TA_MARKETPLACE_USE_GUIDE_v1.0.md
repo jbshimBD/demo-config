@@ -83,6 +83,7 @@ https://github.com/PaaS-TA/Guide-4.0-ROTELLE/blob/master/Use-Guide/portal/PaaS-T
 2-1. 사용자 마켓플레이스로 이동한다.  
 2-2. 판매자 마켓플레이스로 이동한다.
 <br>
+
 >**PaaS-TA 관리자 포탈**
 1. PaaS-TA 관리자 포탈에서 로그인한다.
 ![adminPortal_login]
